@@ -43,6 +43,8 @@ macOS: ~/Library/Application Support/Claude/claude_desktop_config.json
 Windows: %APPDATA%\Claude\claude_desktop_config.json
 
 Linux: ~/.config/Claude/claude_desktop_config.json
+
+Than create a config file to understand the claude which file have to run and give the proper file path of server file.
 ```
 Add this config:
 ```
