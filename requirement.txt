@@ -1,0 +1,4 @@
+# Model Context Protocol framework (includes FastMCP)
+mcp[cli]>=1.0.0
+# HTTP client for making API requests (used in get_random_fact)
+httpx>=0.25.0

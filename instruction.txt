@@ -1,0 +1,18 @@
+Simple MCP Server with 4 Tools
+Uses regular pip (no uv needed!)
+
+Installation:
+pip install "mcp[cli]" httpx
+
+Run:
+python server.py
+
+Test with Claude Desktop by adding to claude_desktop_config.json:
+{
+  "mcpServers": {
+    "my-tools": {
+      "command": "python",
+      "args": ["/ABSOLUTE/PATH/TO/server.py"]
+    }
+  }
+}
