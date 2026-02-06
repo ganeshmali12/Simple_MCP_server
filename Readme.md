@@ -72,7 +72,6 @@ Ask Claude:
 "Count words in this text: Hello world"
 
 ```
-
 ## Project Structure
 ```
 text
@@ -99,4 +98,6 @@ Module errors? Run pip install "mcp[cli]" httpx
 ## Contributing
 ```
 Feel free to fork and submit PRs to add more tools!
-```
+``` 
+## Note:-
+If dont want to use the claude desktop you can also use the client CLI for test the MCP server which i inculde in the repo 
