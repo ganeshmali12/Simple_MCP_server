@@ -100,4 +100,4 @@ Module errors? Run pip install "mcp[cli]" httpx
 Feel free to fork and submit PRs to add more tools!
 ``` 
 ## Note:-
-If dont want to use the claude desktop you can also use the client CLI for test the MCP server which i inculde in the repo 
+If you don’t want to use the Claude desktop app, you can also use the client CLI to test the MCP server, which I’ve included in the repository. 
